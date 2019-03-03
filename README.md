@@ -1,4 +1,4 @@
-# USM-ICS111
+# USM-ICS111 (Administracion de empresas)
 
 
 ## Lecturas 
