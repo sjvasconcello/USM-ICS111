@@ -7,4 +7,3 @@ Este repositorio contiene el resumen de @sjvasconcello para el curso ICS111 que 
 - La Revolucion Industrial y la nueva historia economica (Joel Mokyr)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/sjvasconcello.svg?style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/sjvasconcello.svg?style=flat-square)
